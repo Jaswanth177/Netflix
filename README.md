@@ -1,5 +1,9 @@
-Developed a real-time Netflix clone using HTML, CSS, JavaScript, Python, Django, and SQL.
-Implemented secure user authentication with login, signup, and JWT-based access control.
-Integrated adaptive video streaming for seamless playback and optimized performance.
-Designed a responsive UI with modern frontend frameworks for an enhanced user experience.
-Optimized database queries using Django ORM for efficient content management and recommendations.
+Description:A Netflix real-time clone built using HTML, CSS, JavaScript for the frontend and Python with Django for the backend. This project mimics Netflix-style UI and supports user authentication, video previews, and dynamic content loading.
+
+Responsive Netflix-style UI
+
+User Registration & Login (Django Auth)
+
+Real-time content rendering using Django templates
+
+Admin panel to manage content (add/remove shows, update banners, etc.)
